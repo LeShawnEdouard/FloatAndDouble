@@ -1,6 +1,6 @@
 package com.company;
 
-public class FloatAndDouble {
+public class Main {
 
     public static void main(String[] args) {
 
